@@ -16,4 +16,4 @@ s’attachera l’ebs et l’ip publique) dont la taille et le tag seront variab
 les variables afin de rendre votre application plus dynamique
 - A la fin du déploiement, INSTALLEZ JENKINS EN MODE CONTENEURISÉ AVEC DOCKER COMPOSE et enregistrez l’ip publique et le nom de domaine dans un fichier nommé jenkins_ec2.txt
 - A la fin de votre travail, poussez votre rôle sur github et envoyez nous le lien de votre repo à
-eazytrainingfr@gmail.com et nous vous dirons si votre solution respecte les bonnes pratiques
+contact@eazytraining.fr et nous vous dirons si votre solution respecte les bonnes pratiques
